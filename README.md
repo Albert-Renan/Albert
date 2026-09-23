@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Albert Renan Gervazio da Silva, tenho 14 anos, moro em Natuba,na Paraíba, Brasil. Sou um estudante apaixonado por tecnologia e programação! Gosto de passar o tempo livre aprendendo coisas novas, criando pequenos jogos, sites e resolvendo desafios de logica atraves do codigo! Aqui no meu perfil vou mostrar alguns projetos,espero que gostem.
+Me chamo Albert Renan Gervazio da Silva, tenho 14 anos, moro em Natuba,na Paraíba, Brasil. Sou um estudante apaixonado por tecnologia e programação! Tenho como objetivo me tornar um engenheiro de cloud. Gosto de passar o tempo livre aprendendo coisas novas, criando pequenos jogos, sites e resolvendo desafios de logica atraves do codigo! Aqui no meu perfil vou mostrar alguns projetos,espero que gostem.
 
 ---
 
