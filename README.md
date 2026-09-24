@@ -100,4 +100,4 @@ Me chamo Albert Renan Gervazio da Silva, tenho 14 anos, moro em Natuba,na Paraí
 
 ## CONTATO
 
-<a href="https://discord.gg/ZSeh2vHc">Discord</a>
+<a href=""></a>
